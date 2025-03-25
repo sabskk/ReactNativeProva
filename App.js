@@ -6,7 +6,7 @@ import Login from './screens/login';
 export default function App() {
   return (
     <View style={app.container}>
-      <Login/>
+      <Home/>
     </View>
   );
 }
